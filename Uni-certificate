@@ -24,6 +24,8 @@
         <ul>
             <li><a href="#Introduction">Introduction</a></li>
             <li><a href="#Certification">Certification</a></li>
+            <li><a href="#LastSemester">Last Semester</a></li>
+
 
         </ul>
     </nav>
@@ -37,9 +39,50 @@
         <b>Nationality: Lebanese</b><br>
     </p>
 
-    <section id="Certification">
+    <section id="Certificate">
+    <h2>Congractulations !</h2>
     <p>This is to certify that Stephanie Kabboul successfully completed her Bachelor Degree in French 
-    Literature and Linguisics under the Lebanese University-Faculty of Litterature and Human Sciences
+    Literature and Linguisics under the Lebanese University-Faculty of Litterature and Human Sciences.
     </p>
-    
+
+    <section id="LastSemester">
+    <h3>Last Semester</h3>
+    <table border= "1">
+        <tr>
+            <th>Course</th>
+            <th>Credits</th>
+        </tr>
+        <tr>
+            <td>ATELL6101</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>CIFRL5101</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>LGCOL6100</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>LIFRL5103</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>LIFRL6103</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>LINGL6110</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>LINGL6116</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <td>PSLIL6100</td>
+            <td>4</td>
+        </tr>
+
 
