@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University certificate</title>
+
+    <style>
+        body {
+            color: black;
+        }
+
+    </style>
+    <link rel="stylesheet" href="Styles/styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>University Certificate</h1>
+    </header>
+    <p>
+        <h3>Degree: BA</h3>
+        <h3>Name: Stephanie Kabboul</h3>
+        <h3>Major: French Literature and Linguistics</h3>
+        <h3>Gender: Female</h3>
+        <h3>Nationality: Lebanese</h3>
+    </p>
