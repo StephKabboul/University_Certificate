@@ -45,6 +45,12 @@
     Literature and Linguisics under the Lebanese University-Faculty of Litterature and Human Sciences.
     </p>
 
+    
+    <img src="pp.jpg" alt="Profile Image" width="150" height="150"><br>
+    <a href=" https://www.ul.edu.lb/" target="_blank">UL's official website</a>
+
+    
+
     <section id="LastSemester">
     <h3>Last Semester</h3>
     <table border= "1">
@@ -84,5 +90,5 @@
             <td>PSLIL6100</td>
             <td>4</td>
         </tr>
-
+        
 
