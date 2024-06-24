@@ -19,11 +19,27 @@
     <header>
         <h1>University Certificate</h1>
     </header>
-    <p>
+
+    <nav>
+        <ul>
+            <li><a href="#Introduction">Introduction</a></li>
+            <li><a href="#Certification">Certification</a></li>
+
+        </ul>
+    </nav>
+
+    <section id="Introduction">
+    <p>            
         <b>Degree: BA</b><br>
         <b>Name: Stephanie Kabboul</b><br>
         <b>Major: French Literature and Linguistics</b><br>
         <b>Gender: Female</b><br>
         <b>Nationality: Lebanese</b><br>
     </p>
+
+    <section id="Certification">
+    <p>This is to certify that Stephanie Kabboul successfully completed her Bachelor Degree in French 
+    Literature and Linguisics under the Lebanese University-Faculty of Litterature and Human Sciences
+    </p>
+    
 
